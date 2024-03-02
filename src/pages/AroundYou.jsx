@@ -13,7 +13,7 @@ const AroundYou = () => {
   useEffect(() => {
     axios
       .get(
-        'https://api.ipgeolocation.io/ipgeo?apiKey=e986d9ce10bc405abea93deb43c9def3',
+        `https://api.ipgeolocation.io/ipgeo?apiKey=${import.meta.env.VITE_GEO_API_KEY}`,
       )
       .then((res) => setCountry(res?.data?.location?.country))
       .catch((err) => console.log(err))
