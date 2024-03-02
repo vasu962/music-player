@@ -1,7 +1,7 @@
 # Music Application Lyriks
 
 ## Develop an elegant React.js Music Application. 
-[!Music Application](https://i.postimg.cc/sDh6NmmG/Screenshot-2024-03-02-223832.png)
+![Music Application](https://i.postimg.cc/sDh6NmmG/Screenshot-2024-03-02-223832.png)
 
 # Contributing
 
