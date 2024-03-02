@@ -1,8 +1,7 @@
-# Project Lyrics
+# Music Application Lyriks
 
-Develop an elegant React.js Music Application. 
-
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+## Develop an elegant React.js Music Application. 
+[!Music Application](https://ibb.co/jHv00j3)
 
 # Contributing
 
