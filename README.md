@@ -1,7 +1,9 @@
-# Music Application Lyriks
+# Lyriks Music Application
 
+## [Live](https://music-player-beta-two.vercel.app/)
 ## Develop an elegant React.js Music Application. 
 ![Music Application](https://i.postimg.cc/sDh6NmmG/Screenshot-2024-03-02-223832.png)
+![Music Application](https://i.postimg.cc/QdskQ64r/Screenshot-5.png)
 
 # Contributing
 
